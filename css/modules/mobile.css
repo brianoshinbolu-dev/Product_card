@@ -1,0 +1,66 @@
+
+
+@media screen and (max-width: 400px) {
+
+    main{
+        width: 100%;
+        padding: 15px;
+        background-color: hsl(30, 38%, 92%);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mobimg{
+        border-radius: 10px 10px 0px 0;
+    }
+
+    .deskimg {
+        display: none;
+    }
+
+
+    .product_info{
+        background-color: hsl(0, 0%, 100%);
+        padding: 20px;
+    }
+
+    .current-price {
+        color: hsl(158, 36%, 37%);
+        font-size: 30px;
+    }
+
+    .old-price{
+        padding: 10px;
+        text-decoration: line-through;
+        color: hsl(228, 12%, 48%);
+    }
+
+
+    button {
+        display: flex;
+        justify-content: center;
+        background-color:  hsl(158, 36%, 37%);
+        width:  95%;
+        margin:  auto;
+        color:  white;
+        padding: 10px;
+        border-radius: 5px;
+        line-height: 4px;
+    }
+
+    p, h1{
+        padding: 10px;
+    }
+
+    .price_des {
+        color: hsl(228, 12%, 48%);
+    }
+
+    .cartigory{
+        color: hsl(228, 12%, 48%);
+        letter-spacing: 4px;
+        font-family: Fraunces;
+    }
+
+
+}

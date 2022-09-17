@@ -1,0 +1,24 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Fraunces");
+@import './modules/mobile.css';
+@import './modules/desktop.css';
+
+
+:root {
+    --cyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+    --dark_blue: hsl(212, 21%, 14%);
+    --greyhish_blue: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+}
+
+html {
+    font-family: Montserrat , Fraunces;
+    font-size: 14px;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
