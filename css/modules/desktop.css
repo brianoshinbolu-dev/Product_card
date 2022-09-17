@@ -45,6 +45,7 @@ main{
 .product_info{
         background-color: hsl(0, 0%, 100%);
         padding: 30px;
+        border-radius: 10px;
     }
 
     .current-price {
