@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/brianoshinbolu-dev/Product_card.git)
-- Live Site URL: [Add live site URL here](https://product-card-eight-tau.vercel.app/)
+- Solution URL: [https://github.com/brianoshinbolu-dev/Product_card.git](https://github.com/brianoshinbolu-dev/Product_card.git)
+- Live Site URL: [https://product-card-eight-tau.vercel.app/](https://product-card-eight-tau.vercel.app/)
 
 ## My process
 
