@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Interactive rating component coding challenge](./image/pcard_mob.png)
-![Design preview for the Interactive rating component coding challenge](./image/pcard_desk.png)
+![Design preview for the Interactive rating component coding challenge](./images/pcard_mob.png)
+![Design preview for the Interactive rating component coding challenge](./images/pcard_desk.png)
 
 
 ### Links
