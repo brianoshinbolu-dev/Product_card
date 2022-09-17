@@ -1,9 +1,17 @@
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
+
+
+    body {
+        background-color: hsl(30, 38%, 92%);
+        width: 100vw;
+        height: 100%;
+}
 
     main{
-        width: 100%;
+        margin: auto;
+        max-width: 375px;
         padding: 15px;
         background-color: hsl(30, 38%, 92%);
         display: flex;
